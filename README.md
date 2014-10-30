@@ -43,3 +43,4 @@ A curated list of amazingly awesome awesomeness
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
+	- [Weekly](https://github.com/jondot/awesome-weekly)
